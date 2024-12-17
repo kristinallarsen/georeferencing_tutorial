@@ -33,7 +33,7 @@
 
 ![Screenshot indicating locations of SHARE and IIIF Manifest links on DavidRumsey.com](https://github.com/user-attachments/assets/4776a598-9147-4e2c-ae88-5ece091f0f75)
 
-### B. Find IIIF Manifest on Searchworks.stanford.edu:
+### B. Find IIIF Manifest on [Searchworks.stanford.edu](https://searchworks.stanford.edu/):
 
 1. Click the “hamburger menu” at upper left to reveal metadata sidebar 
 2. Scroll all the way to the bottom of the sidebar
@@ -44,7 +44,7 @@
 
 ## 2.  Georeference your map in Allmaps Editor
 
-1. Open Allmaps Editor: https://editor.allmaps.org
+1. Open Allmaps Editor: [https://editor.allmaps.org](https://editor.allmaps.org)
 2. Paste your IIIF manifest link into the text box and click “Load”
 
 ![Screenshot showing the ALlmaps Editor input box.](https://github.com/user-attachments/assets/2dcc5286-2423-49b1-8332-4f8d3ac9b168)
@@ -75,7 +75,7 @@ On the next page, click “Mask”
 
 ![Screenshot 2024-12-16 at 12 52 08 PM](https://github.com/user-attachments/assets/049b419a-d844-4a5a-8122-d582ff292ea4)
 
-## 3.  Place Georeferenced Map in a Map Layer in Felt.com 
+## 3.  Place Georeferenced Map in a Map Layer in [Felt.com](https://felt.com/) 
 
 *There are other options for this step, like ArcGIS Online and QGIS, among others, but Felt.com is very easy for beginners. You can sign up for a trial membership and/or request a free educational license from an .edu email address.*
 
