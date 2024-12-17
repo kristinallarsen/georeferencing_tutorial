@@ -25,7 +25,7 @@
 
 ***You do not need to get a link from both places, just choose one to use, copy it, and move to step 2.***
 
-### A. Find IIIF Manifest on Davidrumsey.com:
+### A. Find IIIF Manifest on [DavidRumsey.com](https://www.davidrumsey.com/)
 
 1. Click SHARE to reveal dropdown menu
 2. Click “IIIF Manifests” to reveal text box with link
